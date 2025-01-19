@@ -1,2 +1,13 @@
-# Python-SQL-E-Commerce-Analysis
-This project analyzes a dataset (likely about Zomato restaurants). It appears to involve:  Data Cleaning: Converting data types and handling inconsistencies. Exploratory Data Analysis (EDA): Understanding trends, like restaurant types. Visualization: Using libraries like seaborn and matplotlib.
+##Second Notebook: Python + SQL E-Commerce Analysis
+Purpose: Perform data analysis for an e-commerce business by integrating Python and SQL.
+Key Features:
+Database Connection: Establishing a MySQL connection to fetch and analyze data.
+Queries:
+List unique cities where customers are located.
+Count orders placed in 2017.
+Calculate total sales by category.
+Data Visualization: Using matplotlib and seaborn to present findings.
+Potential Use Cases:
+Understanding customer geography and order trends.
+Identifying top-selling product categories for better inventory management.
+Year-over-year order analysis for performance tracking.
